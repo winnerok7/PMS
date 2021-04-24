@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "ua.kpi.comsys.iv8107",
+  "variantName": "debug",
+  "elements": []
+}
